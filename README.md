@@ -13,10 +13,10 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 I am a recent Computer Information Systems graduate with a Minor in Business Administration from Southern Wesleyan University[cite: 1].
-* 🚀 Driven problem solver passionate about building useful, high-performing software solutions[cite: 1].
-* 🏃 Bring strong discipline, reliability, and leadership to every project, honed as an NCAA Division II Cross Country and Track & Field student-athlete[cite: 1].
-* 🌐 Check out my personal work at [DrewBuilds.com](https://drewbuilds.com)[cite: 1].
+* 🎓 I am a recent Computer Information Systems graduate with a Minor in Business Administration from Southern Wesleyan University.
+* 🚀 Driven problem solver passionate about building useful, high-performing software solutions.
+* 🏃 Bring strong discipline, reliability, and leadership to every project, honed as an NCAA Division II Cross Country and Track & Field student-athlete.
+* 🌐 Check out my personal work at [DrewBuilds.com](https://drewbuilds.com).
 
 ---
 
@@ -54,13 +54,13 @@
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **Just Bean It** | SwiftUI, Supabase[cite: 1] | Mobile social app for users to discover, rate, save, and share local coffee shops[cite: 1]. | [Live Site](https://just-bean-it-website.vercel.app) \| [GitHub](https://github.com/DrewBuild/ProjectJBI)[cite: 1] |
-| **North Star Santa** | HTML, CSS, JS, Sanity, Vercel[cite: 1] | Responsive booking and promotional site for a professional Santa Claus client[cite: 1]. | [Live Site](https://northstarsanta.com) \| [GitHub](https://github.com/DrewBuild/North-Star-Santa)[cite: 1] |
-| **My Portfolio** | HTML, CSS, JavaScript[cite: 1] | Personal responsive portfolio to showcase projects, skills, and background[cite: 1]. | [Live Site](https://drewbuilds.com) \| [GitHub](https://github.com/DrewBuild/MyPortfolio)[cite: 1] |
+| **Just Bean It** | SwiftUI, Supabase | Mobile social app for users to discover, rate, save, and share local coffee shops. | [Live Site](https://just-bean-it-website.vercel.app) \| [GitHub](https://github.com/DrewBuild/ProjectJBI) |
+| **North Star Santa** | HTML, CSS, JS, Sanity, Vercel | Responsive booking and promotional site for a professional Santa Claus client. | [Live Site](https://northstarsanta.com) \| [GitHub](https://github.com/DrewBuild/North-Star-Santa) |
+| **My Portfolio** | HTML, CSS, JavaScript | Personal responsive portfolio to showcase projects, skills, and background. | [Live Site](https://drewbuilds.com) \| [GitHub](https://github.com/DrewBuild/MyPortfolio) |
 
 ---
 
 ### 🌐 Connect With Me
 
-* **Website:** [DrewBuilds.com](https://drewbuilds.com)[cite: 1]
-* **Email:** [Drewj@drewbuilds.com](mailto:Drewj@drewbuilds.com)[cite: 1]
+* **Website:** [DrewBuilds.com](https://drewbuilds.com)
+* **Email:** [Drewj@drewbuilds.com](mailto:Drewj@drewbuilds.com)
