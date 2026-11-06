@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,40,55,70&height=200&section=header&text=Hi%20there,%20I'm%20Drew%20Jones%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,40,55,70&height=200&section=header&text=Hi%20there,%20I'm%20Drew%20Jones%20 &fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
   <!-- Subtitle Badges -->
   <p align="center">
@@ -21,14 +21,14 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 <div align="left">
 
-- 🎓 **Education:** Graduated with a B.S. in Computer Information Systems and a Minor in Business Administration from Southern Wesleyan University.
-- 💡 **Passion:** Driven problem solver focused on building clean, high-performing software applications—from mobile apps to full client websites.
-- 🏃 **Discipline:** Brought leadership, time management, and resilience to every project as an NCAA Division II Cross Country and Track & Field student-athlete.
-- 🎯 **Current Focus:** Open to software engineering opportunities, learning new backend architecture, and building side projects.
+-  **Education:** Graduated with a B.S. in Computer Information Systems and a Minor in Business Administration from Southern Wesleyan University.
+-  **Passion:** Driven problem solver focused on building clean, high-performing software applications—from mobile apps to full client websites.
+-  **Discipline:** Brought leadership, time management, and resilience to every project as an NCAA Division II Cross Country and Track & Field student-athlete.
+-  **Current Focus:** Open to software engineering opportunities, learning new backend architecture, and building side projects.
 
 </div>
 
@@ -56,27 +56,27 @@
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
 | ☕ **Just Bean It** | `SwiftUI` `Supabase` | Mobile social app to discover, rate, save, and share local coffee shops. Features authentication and cloud media storage. | [<img src="https://img.shields.io/badge/Live_Site-000000?style=flat&logo=vercel&logoColor=white" />](https://just-bean-it-website.vercel.app) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/DrewBuild/ProjectJBI) |
-| 🎅 **North Star Santa** | `HTML` `CSS` `JS` `Sanity` | Client promotional & booking platform designed for a professional Santa Claus with custom CMS data. | [<img src="https://img.shields.io/badge/Live_Site-0075ca?style=flat&logo=google-chrome&logoColor=white" />](https://northstarsanta.com) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/DrewBuild/North-Star-Santa) |
-| 💻 **Personal Portfolio** | `HTML` `CSS` `JS` | Custom-designed portfolio highlighting technical experience, project showcases, and background. | [<img src="https://img.shields.io/badge/Live_Site-2ea44f?style=flat&logo=google-chrome&logoColor=white" />](https://drewbuilds.com) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/DrewBuild/MyPortfolio) |
+|  **North Star Santa** | `HTML` `CSS` `JS` `Sanity` | Client promotional & booking platform designed for a professional Santa Claus with custom CMS data. | [<img src="https://img.shields.io/badge/Live_Site-0075ca?style=flat&logo=google-chrome&logoColor=white" />](https://northstarsanta.com) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/DrewBuild/North-Star-Santa) |
+|  **Personal Portfolio** | `HTML` `CSS` `JS` | Custom-designed portfolio highlighting technical experience, project showcases, and background. | [<img src="https://img.shields.io/badge/Live_Site-2ea44f?style=flat&logo=google-chrome&logoColor=white" />](https://drewbuilds.com) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/DrewBuild/MyPortfolio) |
 
 </div>
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 <div align="center">
 
-- ☁️ **AWS Educate:** Introduction to Cloud 101 *(Amazon Web Services)*
-- 💻 **HackerRank:** Software Engineer Certificate
-- 🗄️ **HackerRank:** SQL (Intermediate) Certificate
-- 🧩 **HackerRank:** Problem Solving (Basic) Certificate
+-  **AWS Educate:** Introduction to Cloud 101 *(Amazon Web Services)*
+-  **HackerRank:** Software Engineer Certificate
+-  **HackerRank:** SQL (Intermediate) Certificate
+-  **HackerRank:** Problem Solving (Basic) Certificate
 
 </div>
 
 ---
 
-### 📬 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://drewbuilds.com">
