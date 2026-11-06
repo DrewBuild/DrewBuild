@@ -1,4 +1,4 @@
-<!-- Badges and Header Banner -->
+<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=180&section=header&text=Hi%20there,%20I'm%20Drew%20Jones!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
@@ -57,15 +57,6 @@
 | **Just Bean It** | SwiftUI, Supabase[cite: 1] | Mobile social app for users to discover, rate, save, and share local coffee shops[cite: 1]. | [Live Site](https://just-bean-it-website.vercel.app) \| [GitHub](https://github.com/DrewBuild/ProjectJBI)[cite: 1] |
 | **North Star Santa** | HTML, CSS, JS, Sanity, Vercel[cite: 1] | Responsive booking and promotional site for a professional Santa Claus client[cite: 1]. | [Live Site](https://northstarsanta.com) \| [GitHub](https://github.com/DrewBuild/North-Star-Santa)[cite: 1] |
 | **My Portfolio** | HTML, CSS, JavaScript[cite: 1] | Personal responsive portfolio to showcase projects, skills, and background[cite: 1]. | [Live Site](https://drewbuilds.com) \| [GitHub](https://github.com/DrewBuild/MyPortfolio)[cite: 1] |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrewBuild&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewBuild&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
