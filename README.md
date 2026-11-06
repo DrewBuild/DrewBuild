@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,40,55,70&height=200&section=header&text=Hi%20there,%20I'm%20Drew%20Jones%20 &fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,40,55,70&height=200&section=header&text=Hi%20there,%20I'm%20Drew%20Jones%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
   <!-- Subtitle Badges -->
   <p align="center">
