@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 <div align="center">
 
@@ -49,13 +49,13 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <div align="center">
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| ☕ **Just Bean It** | `SwiftUI` `Supabase` | Mobile social app to discover, rate, save, and share local coffee shops. Features authentication and cloud media storage. | [<img src="https://img.shields.io/badge/Live_Site-000000?style=flat&logo=vercel&logoColor=white" />](https://just-bean-it-website.vercel.app) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/DrewBuild/ProjectJBI) |
+|  **Just Bean It** | `SwiftUI` `Supabase` | Mobile social app to discover, rate, save, and share local coffee shops. Features authentication and cloud media storage. | [<img src="https://img.shields.io/badge/Live_Site-000000?style=flat&logo=vercel&logoColor=white" />](https://just-bean-it-website.vercel.app) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/DrewBuild/ProjectJBI) |
 |  **North Star Santa** | `HTML` `CSS` `JS` `Sanity` | Client promotional & booking platform designed for a professional Santa Claus with custom CMS data. | [<img src="https://img.shields.io/badge/Live_Site-0075ca?style=flat&logo=google-chrome&logoColor=white" />](https://northstarsanta.com) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/DrewBuild/North-Star-Santa) |
 |  **Personal Portfolio** | `HTML` `CSS` `JS` | Custom-designed portfolio highlighting technical experience, project showcases, and background. | [<img src="https://img.shields.io/badge/Live_Site-2ea44f?style=flat&logo=google-chrome&logoColor=white" />](https://drewbuilds.com) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/DrewBuild/MyPortfolio) |
 
